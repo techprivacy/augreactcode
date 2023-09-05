@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div>Home</div>
+      <div>Hello LnB</div>
     </>
   );
 }
